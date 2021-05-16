@@ -1,0 +1,18 @@
+[
+  {
+    "img": "assets/img/home.jpg",
+    "nomeCientifico": "oi",
+    "nomenclaturaBotanica": "oi",
+    "habitat": "oi",
+    "distribuicao": "oi",
+    "localImg": "oi"
+  },
+  {
+    "img": "assets/img/home.jpg",
+    "nomeCientifico": "oi1",
+    "nomenclaturaBotanica": "oi",
+    "habitat": "oi",
+    "distribuicao": "oi",
+    "localImg": "oi"
+  }
+]
