@@ -1,18 +1,81 @@
-[
-  {
-    "img": "assets/img/home.jpg",
-    "nomeCientifico": "oi",
-    "nomenclaturaBotanica": "oi",
-    "habitat": "oi",
-    "distribuicao": "oi",
-    "localImg": "oi"
-  },
-  {
-    "img": "assets/img/home.jpg",
-    "nomeCientifico": "oi1",
-    "nomenclaturaBotanica": "oi",
-    "habitat": "oi",
-    "distribuicao": "oi",
-    "localImg": "oi"
-  }
+[{
+        "img": "assets/img/ACANTHACEAE.png",
+        "nomeCientifico": "ACANTHACEAE",
+        "nomenclaturaBotanica": "Clistax brasiliensis",
+        "habitat": "Mata de galeria",
+        "distribuicao": "AM, PA, MA, CE, BA, MT, GO, DF, MS, MG, SP, RJ, PR, SC, RS",
+        "localImg": "Parque Nacional da Chapada dos Veadeiros – Cavalcante – GO"
+    },
+    {
+        "img": "assets/img/ALSTROEMERIACEAE.png",
+        "nomeCientifico": "ALSTROEMERIACEAE",
+        "nomenclaturaBotanica": "Alstroemeria plantaginea",
+        "habitat": "Mata, Cerrado Rupestre, Campo Sujo, Campo Rupestre (lato sensu)",
+        "distribuicao": "BA, MG, SP",
+        "localImg": "Parque Nacional da Chapada dos Veadeiros - Alto Paraíso de Goiás. - GO"
+    },
+    {
+        "img": "assets/img/AMARANTHACEAE.png",
+        "nomeCientifico": "AMARANTHACEAE",
+        "nomenclaturaBotanica": "Gomphrena arborescens",
+        "habitat": "Cerrado (stricto sensu), Campo Sujo, Campo Rupestre (lato sensu)",
+        "distribuicao": "MT, DF, MS, MG, SP",
+        "localImg": "Parque Nacional de Brasília - Brasília – DF"
+    },
+    {
+        "img": "assets/img/ANACARDIACEAE.png",
+        "nomeCientifico": "ANACARDIACEAE",
+        "nomenclaturaBotanica": "Anacardium humile",
+        "habitat": "Cerradão, Cerrado (stricto sensu), Campo Sujo, Campo Rupestre (stricto sensu)",
+        "distribuicao": "TO, RO, PI, BA, MT, GO, DF, MS, MG, SP, PR",
+        "localImg": "Jardim Botânico de Brasília - Brasília – DF"
+    },
+    {
+        "img": "assets/img/ANNONACEAE.png",
+        "nomeCientifico": "ANNONACEAE",
+        "nomenclaturaBotanica": "Annona crassiflora",
+        "habitat": "Mata de Galeria, Cerradão, Cerrado (stricto sensu), Vereda",
+        "distribuicao": "PA, TO, MA, BA, MT, GO, DF, MS, MG, SP, PR",
+        "localImg": "APA do Planalto Central - Brasília - DF"
+    },
+    {
+        "img": "assets/img/APOCYNACEAE.png",
+        "nomeCientifico": "APOCYNACEAE",
+        "nomenclaturaBotanica": "Allamanda angustifolia",
+        "habitat": "Cerrado ralo, campo sujo, campo limpo, campo rupestre (stricto sensu)",
+        "distribuicao": "GO",
+        "localImg": "Parque Nacional Chapada dos Veadeiros - Cavalcante – GO"
+    },
+    {
+        "img": "assets/img/ARECACEAE.png",
+        "nomeCientifico": "ARECACEAE",
+        "nomenclaturaBotanica": "Acrocomia aculeata",
+        "habitat": "Mata seca, cerradão, cerrado (lato sensu), palmeiral, área antrópica; ",
+        "distribuicao": "RO, PA, AM, TO, MA, CE, BA, GO, MS, MG, SP, PR",
+        "localImg": "Parque Olhos D’Água - Brasília – DF"
+    },
+    {
+        "img": "assets/img/ARISTOLOCHIACEAE.png",
+        "nomeCientifico": "ARISTOLOCHIACEAE",
+        "nomenclaturaBotanica": "Aristolochia galeata",
+        "habitat": "Mata ciliar, mata seca semidecídua, cerrado (lato sensu), área antrópica",
+        "distribuicao": "TO, CE, GO, DF, MG, ES, SP, RJ",
+        "localImg": "Parque Olhos D’Água - Brasília - DF"
+    },
+    {
+        "img": "assets/img/ASTERACEAE.png",
+        "nomeCientifico": "ASTERACEAE",
+        "nomenclaturaBotanica": "Achyrocline alata",
+        "habitat": "Cerrado (lato sensu), vereda, campo sujo, campo limpo, campo úmido, brejo",
+        "distribuicao": "BA, GO, DF, MG, SP, RJ, PR, SC, RS",
+        "localImg": "Chapada Imperial - Brazlândia – DF"
+    },
+    {
+        "img": "assets/img/BEGONIACEAE.png",
+        "nomeCientifico": "BEGONIACEAE",
+        "nomenclaturaBotanica": "Begonia grisea",
+        "habitat": "Mata ciliar, cerrado (lato sensu), Campo rupestre (lato sensu), carrasco",
+        "distribuicao": "PE, BA, MG",
+        "localImg": " Parque Natural Municipal do Morro do Pai Inácio - Chapada Diamantina - Palmeiras – BA"
+    }
 ]
