@@ -9,7 +9,9 @@ class HomeScreen extends StatelessWidget {
     return Container(
       decoration: const BoxDecoration(
         image: DecorationImage(
-            image: AssetImage('assets/img/home.jpg'), fit: BoxFit.cover),
+          image: AssetImage('assets/img/home.jpg'),
+          fit: BoxFit.cover,
+        ),
       ),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -17,7 +19,9 @@ class HomeScreen extends StatelessWidget {
           const Text(
             'Vegetação do Cerrado',
             style: TextStyle(
-                color: Colors.white70, decoration: TextDecoration.none),
+              color: Colors.white70,
+              decoration: TextDecoration.none,
+            ),
           ),
           const SizedBox(
             height: 20,

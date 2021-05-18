@@ -13,24 +13,25 @@ class _EspeciesScreenState extends State {
   var especies = <Especie>[];
 
   _getEspecies() {
-    rootBundle.loadString('assets/especies').then((jsonString) {
+    rootBundle.loadString('assets/especies.json').then((jsonString) {
       setState(() {
         Iterable list = json.decode(jsonString);
         for (Map value in list) {
           especies.add(
             Especie(
-              value['img'],
-              value['nomeCientifico'],
-              value['nomenclaturaBotanica'],
-              value['habitat'],
-              value['distribuicao'],
-              value['localImg']),
+                value['img'],
+                value['nomeCientifico'],
+                value['nomenclaturaBotanica'],
+                value['habitat'],
+                value['distribuicao'],
+                value['localImg']),
           );
         }
       });
     });
   }
 
+  @override
   initState() {
     super.initState();
     _getEspecies();
@@ -52,22 +53,23 @@ class _EspeciesScreenState extends State {
                 child: Column(
                   children: [
                     for (Especie especie in especies)
-                      Column(
-                        children: [
-                          GestureDetector(
-                            child: Row(
-                              mainAxisAlignment: MainAxisAlignment.start,
-                              children: [
-                                CircleAvatar(
-                                  radius: 40,
-                                  backgroundImage: AssetImage(
-                                    especie.img,
-                                  ),
+                      GestureDetector(
+                        child: Container(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            children: [
+                              CircleAvatar(
+                                radius: 40,
+                                backgroundImage: AssetImage(
+                                  especie.img,
                                 ),
-                                const SizedBox(
-                                  width: 10,
-                                ),
-                                Column(
+                              ),
+                              const SizedBox(
+                                width: 10,
+                              ),
+                              Expanded(
+                                child: Column(
                                   children: [
                                     Text(
                                       especie.nomeCientifico,
@@ -76,24 +78,21 @@ class _EspeciesScreenState extends State {
                                     ),
                                     Text(especie.nomenclaturaBotanica),
                                   ],
-                                )
-                              ],
-                            ),
-                            onTap: () {
-                              Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                  builder: (context) => EspecieScreen(
-                                    especie: especie,
-                                  ),
                                 ),
-                              );
-                            },
+                              ),
+                            ],
                           ),
-                          const SizedBox(
-                            height: 20,
-                          ),
-                        ],
+                        ),
+                        onTap: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => EspecieScreen(
+                                especie: especie,
+                              ),
+                            ),
+                          );
+                        },
                       ),
                   ],
                 ),

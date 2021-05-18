@@ -1,5 +1,5 @@
 [{
-        "img": "assets/img/ACANTHACEAE.png",
+        "img": "assets/img/ACANTHACEAE.PNG",
         "nomeCientifico": "ACANTHACEAE",
         "nomenclaturaBotanica": "Clistax brasiliensis",
         "habitat": "Mata de galeria",
@@ -7,7 +7,7 @@
         "localImg": "Parque Nacional da Chapada dos Veadeiros – Cavalcante – GO"
     },
     {
-        "img": "assets/img/ALSTROEMERIACEAE.png",
+        "img": "assets/img/ALSTROEMERIACEAE.PNG",
         "nomeCientifico": "ALSTROEMERIACEAE",
         "nomenclaturaBotanica": "Alstroemeria plantaginea",
         "habitat": "Mata, Cerrado Rupestre, Campo Sujo, Campo Rupestre (lato sensu)",
@@ -15,7 +15,7 @@
         "localImg": "Parque Nacional da Chapada dos Veadeiros - Alto Paraíso de Goiás. - GO"
     },
     {
-        "img": "assets/img/AMARANTHACEAE.png",
+        "img": "assets/img/AMARANTHACEAE.PNG",
         "nomeCientifico": "AMARANTHACEAE",
         "nomenclaturaBotanica": "Gomphrena arborescens",
         "habitat": "Cerrado (stricto sensu), Campo Sujo, Campo Rupestre (lato sensu)",
@@ -23,7 +23,7 @@
         "localImg": "Parque Nacional de Brasília - Brasília – DF"
     },
     {
-        "img": "assets/img/ANACARDIACEAE.png",
+        "img": "assets/img/ANACARDIACEAE.PNG",
         "nomeCientifico": "ANACARDIACEAE",
         "nomenclaturaBotanica": "Anacardium humile",
         "habitat": "Cerradão, Cerrado (stricto sensu), Campo Sujo, Campo Rupestre (stricto sensu)",
@@ -31,7 +31,7 @@
         "localImg": "Jardim Botânico de Brasília - Brasília – DF"
     },
     {
-        "img": "assets/img/ANNONACEAE.png",
+        "img": "assets/img/ANNONACEAE.PNG",
         "nomeCientifico": "ANNONACEAE",
         "nomenclaturaBotanica": "Annona crassiflora",
         "habitat": "Mata de Galeria, Cerradão, Cerrado (stricto sensu), Vereda",
@@ -39,7 +39,7 @@
         "localImg": "APA do Planalto Central - Brasília - DF"
     },
     {
-        "img": "assets/img/APOCYNACEAE.png",
+        "img": "assets/img/APOCYNACEAE.PNG",
         "nomeCientifico": "APOCYNACEAE",
         "nomenclaturaBotanica": "Allamanda angustifolia",
         "habitat": "Cerrado ralo, campo sujo, campo limpo, campo rupestre (stricto sensu)",
@@ -47,7 +47,7 @@
         "localImg": "Parque Nacional Chapada dos Veadeiros - Cavalcante – GO"
     },
     {
-        "img": "assets/img/ARECACEAE.png",
+        "img": "assets/img/ARECACEAE.PNG",
         "nomeCientifico": "ARECACEAE",
         "nomenclaturaBotanica": "Acrocomia aculeata",
         "habitat": "Mata seca, cerradão, cerrado (lato sensu), palmeiral, área antrópica; ",
@@ -55,7 +55,7 @@
         "localImg": "Parque Olhos D’Água - Brasília – DF"
     },
     {
-        "img": "assets/img/ARISTOLOCHIACEAE.png",
+        "img": "assets/img/ARISTOLOCHIACEAE.PNG",
         "nomeCientifico": "ARISTOLOCHIACEAE",
         "nomenclaturaBotanica": "Aristolochia galeata",
         "habitat": "Mata ciliar, mata seca semidecídua, cerrado (lato sensu), área antrópica",
@@ -63,7 +63,7 @@
         "localImg": "Parque Olhos D’Água - Brasília - DF"
     },
     {
-        "img": "assets/img/ASTERACEAE.png",
+        "img": "assets/img/ASTERACEAE.PNG",
         "nomeCientifico": "ASTERACEAE",
         "nomenclaturaBotanica": "Achyrocline alata",
         "habitat": "Cerrado (lato sensu), vereda, campo sujo, campo limpo, campo úmido, brejo",
@@ -71,7 +71,7 @@
         "localImg": "Chapada Imperial - Brazlândia – DF"
     },
     {
-        "img": "assets/img/BEGONIACEAE.png",
+        "img": "assets/img/BEGONIACEAE.PNG",
         "nomeCientifico": "BEGONIACEAE",
         "nomenclaturaBotanica": "Begonia grisea",
         "habitat": "Mata ciliar, cerrado (lato sensu), Campo rupestre (lato sensu), carrasco",
